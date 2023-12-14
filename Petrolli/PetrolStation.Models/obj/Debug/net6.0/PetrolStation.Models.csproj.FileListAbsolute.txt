@@ -1,0 +1,24 @@
+C:\Users\ORWA\Desktop\Petrol Station\PetrolStation.Models\bin\Debug\net6.0\PetrolStation.Models.deps.json
+C:\Users\ORWA\Desktop\Petrol Station\PetrolStation.Models\bin\Debug\net6.0\PetrolStation.Models.dll
+C:\Users\ORWA\Desktop\Petrol Station\PetrolStation.Models\bin\Debug\net6.0\PetrolStation.Models.pdb
+C:\Users\ORWA\Desktop\Petrol Station\PetrolStation.Models\obj\Debug\net6.0\PetrolStation.Models.csproj.AssemblyReference.cache
+C:\Users\ORWA\Desktop\Petrol Station\PetrolStation.Models\obj\Debug\net6.0\PetrolStation.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ORWA\Desktop\Petrol Station\PetrolStation.Models\obj\Debug\net6.0\PetrolStation.Models.AssemblyInfoInputs.cache
+C:\Users\ORWA\Desktop\Petrol Station\PetrolStation.Models\obj\Debug\net6.0\PetrolStation.Models.AssemblyInfo.cs
+C:\Users\ORWA\Desktop\Petrol Station\PetrolStation.Models\obj\Debug\net6.0\PetrolStation.Models.csproj.CoreCompileInputs.cache
+C:\Users\ORWA\Desktop\Petrol Station\PetrolStation.Models\obj\Debug\net6.0\PetrolStation.Models.dll
+C:\Users\ORWA\Desktop\Petrol Station\PetrolStation.Models\obj\Debug\net6.0\refint\PetrolStation.Models.dll
+C:\Users\ORWA\Desktop\Petrol Station\PetrolStation.Models\obj\Debug\net6.0\PetrolStation.Models.pdb
+C:\Users\ORWA\Desktop\Petrol Station\PetrolStation.Models\obj\Debug\net6.0\ref\PetrolStation.Models.dll
+C:\Users\ORWA\Desktop\Petrol Station - Copy\PetrolStation.Models\bin\Debug\net6.0\PetrolStation.Models.deps.json
+C:\Users\ORWA\Desktop\Petrol Station - Copy\PetrolStation.Models\bin\Debug\net6.0\PetrolStation.Models.dll
+C:\Users\ORWA\Desktop\Petrol Station - Copy\PetrolStation.Models\bin\Debug\net6.0\PetrolStation.Models.pdb
+C:\Users\ORWA\Desktop\Petrol Station - Copy\PetrolStation.Models\obj\Debug\net6.0\PetrolStation.Models.csproj.AssemblyReference.cache
+C:\Users\ORWA\Desktop\Petrol Station - Copy\PetrolStation.Models\obj\Debug\net6.0\PetrolStation.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ORWA\Desktop\Petrol Station - Copy\PetrolStation.Models\obj\Debug\net6.0\PetrolStation.Models.AssemblyInfoInputs.cache
+C:\Users\ORWA\Desktop\Petrol Station - Copy\PetrolStation.Models\obj\Debug\net6.0\PetrolStation.Models.AssemblyInfo.cs
+C:\Users\ORWA\Desktop\Petrol Station - Copy\PetrolStation.Models\obj\Debug\net6.0\PetrolStation.Models.csproj.CoreCompileInputs.cache
+C:\Users\ORWA\Desktop\Petrol Station - Copy\PetrolStation.Models\obj\Debug\net6.0\PetrolStation.Models.dll
+C:\Users\ORWA\Desktop\Petrol Station - Copy\PetrolStation.Models\obj\Debug\net6.0\refint\PetrolStation.Models.dll
+C:\Users\ORWA\Desktop\Petrol Station - Copy\PetrolStation.Models\obj\Debug\net6.0\PetrolStation.Models.pdb
+C:\Users\ORWA\Desktop\Petrol Station - Copy\PetrolStation.Models\obj\Debug\net6.0\ref\PetrolStation.Models.dll

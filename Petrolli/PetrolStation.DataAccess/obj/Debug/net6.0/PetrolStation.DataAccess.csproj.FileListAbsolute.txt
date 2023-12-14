@@ -1,0 +1,34 @@
+C:\Users\ORWA\Desktop\Petrol Station\PetrolStation.DataAccess\bin\Debug\net6.0\PetrolStation.DataAccess.deps.json
+C:\Users\ORWA\Desktop\Petrol Station\PetrolStation.DataAccess\bin\Debug\net6.0\PetrolStation.DataAccess.runtimeconfig.json
+C:\Users\ORWA\Desktop\Petrol Station\PetrolStation.DataAccess\bin\Debug\net6.0\PetrolStation.DataAccess.dll
+C:\Users\ORWA\Desktop\Petrol Station\PetrolStation.DataAccess\bin\Debug\net6.0\PetrolStation.DataAccess.pdb
+C:\Users\ORWA\Desktop\Petrol Station\PetrolStation.DataAccess\bin\Debug\net6.0\PetrolStation.Models.dll
+C:\Users\ORWA\Desktop\Petrol Station\PetrolStation.DataAccess\bin\Debug\net6.0\PetrolStation.Models.pdb
+C:\Users\ORWA\Desktop\Petrol Station\PetrolStation.DataAccess\obj\Debug\net6.0\PetrolStation.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ORWA\Desktop\Petrol Station\PetrolStation.DataAccess\obj\Debug\net6.0\PetrolStation.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ORWA\Desktop\Petrol Station\PetrolStation.DataAccess\obj\Debug\net6.0\PetrolStation.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ORWA\Desktop\Petrol Station\PetrolStation.DataAccess\obj\Debug\net6.0\PetrolStation.DataAccess.AssemblyInfo.cs
+C:\Users\ORWA\Desktop\Petrol Station\PetrolStation.DataAccess\obj\Debug\net6.0\PetrolStation.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ORWA\Desktop\Petrol Station\PetrolStation.DataAccess\obj\Debug\net6.0\PetrolStation.DataAccess.csproj.CopyComplete
+C:\Users\ORWA\Desktop\Petrol Station\PetrolStation.DataAccess\obj\Debug\net6.0\PetrolStation.DataAccess.dll
+C:\Users\ORWA\Desktop\Petrol Station\PetrolStation.DataAccess\obj\Debug\net6.0\refint\PetrolStation.DataAccess.dll
+C:\Users\ORWA\Desktop\Petrol Station\PetrolStation.DataAccess\obj\Debug\net6.0\PetrolStation.DataAccess.pdb
+C:\Users\ORWA\Desktop\Petrol Station\PetrolStation.DataAccess\obj\Debug\net6.0\PetrolStation.DataAccess.genruntimeconfig.cache
+C:\Users\ORWA\Desktop\Petrol Station\PetrolStation.DataAccess\obj\Debug\net6.0\ref\PetrolStation.DataAccess.dll
+C:\Users\ORWA\Desktop\Petrol Station - Copy\PetrolStation.DataAccess\bin\Debug\net6.0\PetrolStation.DataAccess.deps.json
+C:\Users\ORWA\Desktop\Petrol Station - Copy\PetrolStation.DataAccess\bin\Debug\net6.0\PetrolStation.DataAccess.runtimeconfig.json
+C:\Users\ORWA\Desktop\Petrol Station - Copy\PetrolStation.DataAccess\bin\Debug\net6.0\PetrolStation.DataAccess.dll
+C:\Users\ORWA\Desktop\Petrol Station - Copy\PetrolStation.DataAccess\bin\Debug\net6.0\PetrolStation.DataAccess.pdb
+C:\Users\ORWA\Desktop\Petrol Station - Copy\PetrolStation.DataAccess\bin\Debug\net6.0\PetrolStation.Models.dll
+C:\Users\ORWA\Desktop\Petrol Station - Copy\PetrolStation.DataAccess\bin\Debug\net6.0\PetrolStation.Models.pdb
+C:\Users\ORWA\Desktop\Petrol Station - Copy\PetrolStation.DataAccess\obj\Debug\net6.0\PetrolStation.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ORWA\Desktop\Petrol Station - Copy\PetrolStation.DataAccess\obj\Debug\net6.0\PetrolStation.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ORWA\Desktop\Petrol Station - Copy\PetrolStation.DataAccess\obj\Debug\net6.0\PetrolStation.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ORWA\Desktop\Petrol Station - Copy\PetrolStation.DataAccess\obj\Debug\net6.0\PetrolStation.DataAccess.AssemblyInfo.cs
+C:\Users\ORWA\Desktop\Petrol Station - Copy\PetrolStation.DataAccess\obj\Debug\net6.0\PetrolStation.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ORWA\Desktop\Petrol Station - Copy\PetrolStation.DataAccess\obj\Debug\net6.0\PetrolStation.DataAccess.csproj.CopyComplete
+C:\Users\ORWA\Desktop\Petrol Station - Copy\PetrolStation.DataAccess\obj\Debug\net6.0\PetrolStation.DataAccess.dll
+C:\Users\ORWA\Desktop\Petrol Station - Copy\PetrolStation.DataAccess\obj\Debug\net6.0\refint\PetrolStation.DataAccess.dll
+C:\Users\ORWA\Desktop\Petrol Station - Copy\PetrolStation.DataAccess\obj\Debug\net6.0\PetrolStation.DataAccess.pdb
+C:\Users\ORWA\Desktop\Petrol Station - Copy\PetrolStation.DataAccess\obj\Debug\net6.0\PetrolStation.DataAccess.genruntimeconfig.cache
+C:\Users\ORWA\Desktop\Petrol Station - Copy\PetrolStation.DataAccess\obj\Debug\net6.0\ref\PetrolStation.DataAccess.dll
